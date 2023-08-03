@@ -1,0 +1,1 @@
+SELECT id, titulo, pagamento, valor FROM produtos WHERE id IN (1,2,3,4,5,6);
